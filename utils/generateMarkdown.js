@@ -39,7 +39,7 @@ ${data.description}
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Questions](#questions?)
+- [Questions](#questions)
 
 ## Installation
 
