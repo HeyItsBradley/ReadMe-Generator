@@ -1,9 +1,14 @@
 
-    # README generator
+  
+# asdf
+  
+## License
+  
+[![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-Makes a readMe from user inputs
+asdfasd
 
 ## Table of Contents (Optional)
 
@@ -13,24 +18,20 @@ Makes a readMe from user inputs
 
 ## Installation
 
-run node index.js
+fas
 
 ## Usage
 
-to use it, run the command, and answer the questions
+dfa
 
 ![alt text](assets/images/screenshot.png)
 
-## License
-
-None
-
 ## How to Contribute
 
-You can use this however you want
+sdfas
 
 ## Tests
 
-run npm i
+asfd
 
     
