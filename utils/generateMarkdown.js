@@ -39,7 +39,7 @@ ${data.description}
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+- [Questions](#questions?)
 
 ## Installation
 
@@ -58,6 +58,14 @@ ${data.contributing}
 ## Tests
 
 ${data.tests}
+
+## Questions?
+
+Reach out to me!
+
+-GitHub: [${data.username}](https://github.com/${data.username})
+
+-Email: ${data.email}
 
     `;
 }
