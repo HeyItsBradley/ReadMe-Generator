@@ -26,9 +26,7 @@ function generateMarkdown(data) {
   return `
   
 # ${data.title}
-  
-## License
-  
+    
 ${renderLicenseSection(data.license)}
 
 ## Description
@@ -43,11 +41,16 @@ ${data.description}
 
 ## Installation
 
+To install necessary depenencies, run the follwing command:
+
+\`\`\`md
 ${data.installation}
+\`\`\`
 
 ## Usage
 
 ${data.usage}
+
 
 ![alt text](assets/images/screenshot.png)
 

@@ -1,6 +1,6 @@
 
   
-# asdf
+# aasdf
   
 ## License
   
@@ -8,7 +8,7 @@
 
 ## Description
 
-asdfasd
+asdf
 
 ## Table of Contents (Optional)
 
@@ -18,21 +18,26 @@ asdfasd
 
 ## Installation
 
-fasdf
+To install necessary depenencies, run the follwing command:
+
+
+asdf
+
 
 ## Usage
 
-adsf
+asdf
 
+```md
 ![alt text](assets/images/screenshot.png)
-
+```
 ## How to Contribute
 
-asdfa
+aasd
 
 ## Tests
 
-sasdf
+asdf 
 
 ## Questions?
 
