@@ -1,9 +1,9 @@
-// TODO: Include packages needed for this application
+//This will include the packages needer to run this program
 const fs = require("fs");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
-// TODO: Create an array of questions for user input
+//This away will contain the questions to be asked to the user
 
 const questions = [
   {
@@ -27,6 +27,11 @@ const questions = [
     name: "usage",
   },
   {
+    type: "confirm",
+    message: "Would you like an image template?",
+    name: "image",
+  },
+  {
     type: "input",
     message: "What are the contribution guidelines?",
     name: "contributing",
@@ -37,8 +42,9 @@ const questions = [
     name: "tests",
   },
   {
-    type: "input",
+    type: "list",
     message: "Which license are you using?",
+    choices: ["MIT", "Apache", "GPLv2", "BSD 3-clause", "other"],
     name: "license",
   },
   {
@@ -53,14 +59,14 @@ const questions = [
   },
 ];
 
-// TODO: Create a function to write README file
+//This function will take in a filename and the data generated from the generate readMe functions and actually create the new file with the data.
 function writeToFile(fileName, data) {
   fs.writeFile(fileName, data, (err) => {
     err ? console.error(err) : console.log("success!");
   });
 }
 
-// TODO: Create a function to initialize app
+//This will ask the user the questions, then store those responses and then pass the data from the questions into a new functions.
 function init() {
   inquirer.prompt(questions).then((response) => {
     console.log(response);
@@ -69,5 +75,5 @@ function init() {
   });
 }
 
-// Function call to initialize app
+//Whent the JS file is called, the program will kick off
 init();

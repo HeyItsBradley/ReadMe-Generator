@@ -1,12 +1,12 @@
 
   
-# asdfasdf
+# README Maker
     
-
+[![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-asdfasdf
+This code will create you a readme file
 
 ## Table of Contents (Optional)
 
@@ -19,30 +19,30 @@ asdfasdf
 To install necessary depenencies, run the follwing command:
 
 ```md
-asdf
+Instal, run, tada
 ```
 
 ## Usage
 
-asdfas
+answer the questions
 
 
 ![alt text](assets/images/screenshot.png)
 
 ## How to Contribute
 
-dfa
+you can do whatd u  like with it
 
 ## Tests
 
-asd
+run npm i
 
 ## Questions?
 
 Reach out to me!
 
--GitHub: [asdfas](https://github.com/asdfas)
+-GitHub: [rbadley](https://github.com/rbadley)
 
--Email: asdf
+-Email: bradley@gmailk
 
     
