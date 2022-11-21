@@ -1,12 +1,10 @@
-
-  
 # README Maker
-    
+
 [![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This code will create you a readme file
+This program will allow a user to simply run a command, answer some questions, and be returned an amazing README file.
 
 ## Table of Contents (Optional)
 
@@ -19,30 +17,25 @@ This code will create you a readme file
 To install necessary depenencies, run the follwing command:
 
 ```md
-Instal, run, tada
+npm i
 ```
 
 ## Usage
 
-answer the questions
-
-
-![alt text](assets/images/screenshot.png)
+To use this program, make sure you have the required files, then in your terminal, run node Index.js. You will then be prompted with some questions. Answer these questions amd once you are finished, a new README file will be created withing the Created-ReadMe folder.
 
 ## How to Contribute
 
-you can do whatd u  like with it
+Feel free to use this!
 
 ## Tests
-
-run npm i
-
+```md
+npm test
+```
 ## Questions?
 
 Reach out to me!
 
--GitHub: [rbadley](https://github.com/rbadley)
+-GitHub: [HeyItsBradley](https://github.com/HeyItsBradley)
 
--Email: bradley@gmailk
-
-    
+-Email: bradleyrodriguez77@gmail.com

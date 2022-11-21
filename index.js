@@ -61,7 +61,7 @@ const questions = [
 
 //This function will take in a filename and the data generated from the generate readMe functions and actually create the new file with the data.
 function writeToFile(fileName, data) {
-  fs.writeFile(fileName, data, (err) => {
+  fs.writeFile(`./Created-Readme/${fileName}`, data, (err) => {
     err ? console.error(err) : console.log("success!");
   });
 }
