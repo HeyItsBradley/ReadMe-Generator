@@ -58,7 +58,7 @@ ${data.installation}
 ${data.usage}
 
 
-![alt text](assets/images/screenshot.png)
+
 
 ## How to Contribute
 

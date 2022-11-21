@@ -1,12 +1,12 @@
 
   
-# adsf
+# Test Readme
     
 [![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-asd
+this readme was created dynamically!
 
 ## Table of Contents (Optional)
 
@@ -19,30 +19,30 @@ asd
 To install necessary depenencies, run the follwing command:
 
 ```md
-fa
+insert install instructions here
 ```
 
 ## Usage
 
-sdf
+insert usage info here
 
 
-![alt text](assets/images/screenshot.png)
+
 
 ## How to Contribute
 
-sdf
+insert contribution guidelines here
 
 ## Tests
 
-a
+insert test here
 
 ## Questions?
 
 Reach out to me!
 
--GitHub: [fas](https://github.com/fas)
+-GitHub: [githubexampleusername](https://github.com/githubexampleusername)
 
--Email: 
+-Email: example@gmail.com
 
     
